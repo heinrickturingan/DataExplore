@@ -37,3 +37,33 @@ My objective is to create a template that can be use as a guide for creating a p
           <li>Create the final report.</li>
       </ul>
 </ul>
+
+<h2> Data </h2>
+
+[Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency)
+
+A study of sleep efficiency, and sleep patterns
+
+About Dataset
+The dataset contains information about a group of test subjects and their sleep patterns. Each test subject is identified by a unique "Subject ID" and their age and gender are also recorded. The "Bedtime" and "Wakeup time" features indicate when each subject goes to bed and wakes up each day, and the "Sleep duration" feature records the total amount of time each subject slept in hours. The "Sleep efficiency" feature is a measure of the proportion of time spent in bed that is actually spent asleep. The "REM sleep percentage", "Deep sleep percentage", and "Light sleep percentage" features indicate the amount of time each subject spent in each stage of sleep. The "Awakenings" feature records the number of times each subject wakes up during the night. Additionally, the dataset includes information about each subject's caffeine and alcohol consumption in the 24 hours prior to bedtime, their smoking status, and their exercise frequency.
+<p> 
+This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.
+</p>
+
+
+
+<h2> Technologies used </h2>
+<ul>
+  <li>Python</li>
+  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Seaborn</li>
+</ul>
+
+<h2> Walk-through video </h2>
+
+<p>
+Click on the image to watch the video:
+</p>
+
+[![EDA and Modeling](https://github.com/heinrickturingan/ADS-Assignment/blob/main/eda.png)](https://www.youtube.com/watch?v=20ZlnWVPoWI)
