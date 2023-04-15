@@ -38,6 +38,11 @@ My objective is to create a template that can be use as a guide for creating a p
       </ul>
 </ul>
 
+<h2> To Do </h2>
+<p>
+I am planning to create a report that will compare cretain features, like Caffeine consumption and Alcohol consumption to Awakenings, Sleep efficiency of a person who smokes compare to a non-smoker.
+</p>
+
 <h2> Data </h2>
 
 Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency)
