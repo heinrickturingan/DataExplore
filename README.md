@@ -40,7 +40,8 @@ My objective is to create a template that can be use as a guide for creating a p
 
 <h2> To Do </h2>
 <p>
-I am planning to create a report that will compare cretain features, like Caffeine consumption and Alcohol consumption to Awakenings, Sleep efficiency of a person who smokes compare to a non-smoker.
+I am planning to create a report that will compare cretain features, like Caffeine consumption and Alcohol consumption to Awakenings, Sleep efficiency of a person who smokes compare to a non-smoker.  am having struggle with my columns are they are numeric and I needed it too be categorical or in dimension type for my to use it on a graph.
+  
 </p>
 
 <h2> Data </h2>
