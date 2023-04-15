@@ -18,7 +18,7 @@ For now I have my eyes on "Impact of Electronic Gadget on students performance" 
 
 <h2> Objective </h2>
 <p>
-My objective is to create a template that can be use as a guide for creating a project that one can present to employers on applying for Data Analytics or Business Intelligence kind of job.
+My objective is to create a template that can be use as a guide for creating a project that one can present to employers on applying for Data Analytics or Business Intelligence kind of job. I sm currently having a problem as my columns are not categorize yet and most are numerical. I am looking on how to change the numeric data and make them all category like dimension type.
 </p>
 
 <h2> Plan </h2>
