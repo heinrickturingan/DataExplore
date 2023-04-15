@@ -70,4 +70,4 @@ The dataset contains information about a group of test subjects and their sleep 
 Click on the image to watch the video:
 </p>
 
-[![EDA and Modeling](https://github.com/heinrickturingan/ADS-Assignment/blob/main/eda.png)](https://www.youtube.com/watch?v=20ZlnWVPoWI)
+[![EDA and Reporting](https://github.com/heinrickturingan/DataExplore/blob/main/Smoker%20vs%20Non%20Smoker.png)](https://youtu.be/7GBqJQqunZE)
