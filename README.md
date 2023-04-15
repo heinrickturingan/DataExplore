@@ -40,9 +40,7 @@ My objective is to create a template that can be use as a guide for creating a p
 
 <h2> Data </h2>
 
-[Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency)
-
-A study of sleep efficiency, and sleep patterns
+Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency)
 
 
 <h3> About Dataset </h3>
