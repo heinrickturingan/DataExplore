@@ -63,10 +63,4 @@ The <b>Sleep Efficiency Study </b> notebook can be viewed in  [Sleep Efficiency 
 [Python](https://www.python.org) | [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) | [Numpy](https://numpy.org/devdocs/index.html#) | [Pycaret](https://pycaret.gitbook.io/docs/) | [Scikit-learn](https://scikit-learn.org/stable/)| [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
 
 
-<h2> Walk-through video </h2>
 
-<p>
-Click on the image to watch the video:
-</p>
-
-[![EDA and Reporting](https://github.com/heinrickturingan/DataExplore/blob/main/Smoker%20vs%20Non%20Smoker.png)](https://youtu.be/7GBqJQqunZE)
