@@ -7,41 +7,10 @@ My project for data exploration.
 I am a student at NSCC taking Business Intelligence and Analytics attempting to create a project that will serve as one of my portfolios to show my progress and my adventure on BI and Analytics.
 </p>
 
-<h2> Obstacle </h2>
-<p>
-It is always a challenge to me on choosing a Dataset to present. I've look at numerous sites like Kaggle, UCI Machine, Canada Opendata, Data.gov and a lot more to name. I'm thinking of choosing a dataset about the impact of gadget use to the performance of student, also a dataset about influence of one’s hobby on selecting a career. 
-</p>
-<p>
-I will continue my search and hope to find a dataset that will tickle my interest.
-For now I have my eyes on "Impact of Electronic Gadget on students performance" and "Sleep Efficiency Dataset".
-</p>
 
 <h2> Objective </h2>
 <p>
 My objective is to create a template that can be use as a guide for creating a project that one can present to employers on applying for Data Analytics or Business Intelligence kind of job. I sm currently having a problem as my columns are not categorize yet and most are numerical. I am looking on how to change the numeric data and make them all category like dimension type.
-</p>
-
-<h2> Plan </h2>
-<ul>
-  <li>Python</li>
-      <ul>
-          <li>Clean the dataset and load it to a CSV.</li>
-          <li>Perform EDA to get an idea on what to show in my report.</li>
-      </ul>
-  <li>SSMS</li>
-      <ul>
-          <li>o	Create Dimension and Fact table to form my star schema.</li>
-      </ul>
-  <li>power BI</li>
-      <ul>
-          <li>Create the final report.</li>
-      </ul>
-</ul>
-
-<h2> To Do </h2>
-<p>
-I am planning to create a report that will compare cretain features, like Caffeine consumption and Alcohol consumption to Awakenings, Sleep efficiency of a person who smokes compare to a non-smoker. I am having struggle with my columns are they are numeric and I needed it too be categorical or in dimension type for my to use it on a graph.
-  
 </p>
 
 <h2> Data </h2>
