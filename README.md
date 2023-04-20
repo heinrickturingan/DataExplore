@@ -60,7 +60,13 @@ The <b>Sleep Efficiency Study </b> notebook can be viewed in  [Sleep Efficiency 
 
 <h2> Technologies used </h2>
 
-[Python](https://www.python.org) | [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) | [Numpy](https://numpy.org/devdocs/index.html#) | [Pycaret](https://pycaret.gitbook.io/docs/) | [Scikit-learn](https://scikit-learn.org/stable/)| [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
+[Python](https://www.python.org) | [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) | [Numpy](https://numpy.org/devdocs/index.html#) | [Seaborn](https://seaborn.pydata.org/) | [Matplotlib](https://matplotlib.org/)
 
 
+<h2> Walk-through video </h2>
 
+<p>
+Click on the image to watch the video:
+</p>
+
+[![EDA and Visualization](https://github.com/heinrickturingan/DataExplore/blob/main/capstone_sleep_efficiency.png)](https://youtu.be/4gX2TyFdIeo)
