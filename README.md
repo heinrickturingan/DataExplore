@@ -56,7 +56,7 @@ The dataset contains information about a group of test subjects and their sleep 
 
 <h2> .ipynb </h2>
 
-The <b>Sleep Efficiency Study </b> notebook can be viewed in  [Jupyter Notebook Viewer](https://nbviewer.org/github/heinrickturingan/DataExplore/blob/main/Sleep_Efficiency_Capstone_Project.ipynb)
+The <b>Sleep Efficiency Study </b> notebook can be viewed in  [Sleep Efficiency Study](https://github.com/heinrickturingan/DataExplore/blob/main/Sleep_Efficiency_Capstone.ipynb)
 
 <h2> Technologies used </h2>
 
