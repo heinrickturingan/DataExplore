@@ -57,12 +57,9 @@ The dataset contains information about a group of test subjects and their sleep 
 
 
 <h2> Technologies used </h2>
-<ul>
-  <li>Python</li>
-  <li>Numpy</li>
-  <li>Pandas</li>
-  <li>Seaborn</li>
-</ul>
+
+[Python](https://www.python.org) | [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) | [Numpy](https://numpy.org/devdocs/index.html#) | [Pycaret](https://pycaret.gitbook.io/docs/) | [Scikit-learn](https://scikit-learn.org/stable/)| [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
+
 
 <h2> Walk-through video </h2>
 
